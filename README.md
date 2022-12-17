@@ -23,3 +23,7 @@
 // Clonando Repositórios 
 
 // Resolvendo Possíveis Conflitos
+
+</br>
+
+<i><u>Introdução ao Git e GitHub realizado na plataforma <strong>DIO</strong></u></i>
