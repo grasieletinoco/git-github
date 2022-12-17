@@ -5,34 +5,34 @@
 
 
 
-### O que é Git?
+### O que é Git?<br />
 
 É um sistema de controle de versão distribuído. Ele é um projeto de código aberto desenvolvido em 2005 por Linus Torvalds (o criador do Linux).
 
 
 ### Comandos Básicos
 
-<code>git help</code> : Ajuda 
-<code>git init</code> : Cria um repositório
-<code>git add *</code> : Adiciona arquivos
-<code>git status</code> : Verifica status dos arquivos
-<code>git commit</code> : Comitar arquivos
-<code>git commit -m "Mensagem"</code> : Comitar arquivos
-<code>git rm</code> : Remove arquivos
-<code>git mv</code> : Move arquivos
-<code>git log</code> : Visualizar logs
-<code>git remote -v</code> : Lista o link dos seus repositórios remotos
-<code>git remote add origin LINK DO GITHUB</code> : Vincular repositório local com um repositório remoto
-<code>git remote show origin</code> : Exibe informações dos repositórios remotos
-<code>git push origin master</code> : Para "empurrar" o codigo para Github
-<code>git pull origin master</code> : Para "puxar" o codigo do Github
-<code>git clone URL</code> : Clonar um repositório
-<code>ls</code> : Listar
-<code>ls -a</code> : Listar arquivos ocultos
-<code>cd NOME</code> : Navegar na pasta
-<code>cd ..</code> : Retroceder um nível
-<code>mkdir NOME-ARQUIVO</code> : Criar pasta
-<code>ctrl + l</code> : Limpar tela do terminal 
+<code>git help</code> : Ajuda <br />
+<code>git init</code> : Cria um repositório <br />
+<code>git add *</code> : Adiciona arquivos <br />
+<code>git status</code> : Verifica status dos arquivos <br />
+<code>git commit</code> : Comitar arquivos <br />
+<code>git commit -m "Mensagem"</code> : Comitar arquivos <br />
+<code>git rm</code> : Remove arquivos <br />
+<code>git mv</code> : Move arquivos <br />
+<code>git log</code> : Visualizar logs <br />
+<code>git remote -v</code> : Lista o link dos seus repositórios remotos <br />
+<code>git remote add origin LINK DO GITHUB</code> : Vincular repositório local com um repositório remoto <br />
+<code>git remote show origin</code> : Exibe informações dos repositórios remotos <br />
+<code>git push origin master</code> : Para "empurrar" o codigo para Github <br />
+<code>git pull origin master</code> : Para "puxar" o codigo do Github <br />
+<code>git clone URL</code> : Clonar um repositório <br />
+<code>ls</code> : Listar <br />
+<code>ls -a</code> : Listar arquivos ocultos <br />
+<code>cd NOME</code> : Navegar na pasta <br />
+<code>cd ..</code> : Retroceder um nível <br />
+<code>mkdir NOME-ARQUIVO</code> : Criar pasta <br />
+<code>ctrl + l</code> : Limpar tela do terminal <br />
 
 
 ### Instalando e Configurando o Git
