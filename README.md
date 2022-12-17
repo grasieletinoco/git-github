@@ -26,5 +26,4 @@
 
 </br>
 
-  <li><i>O projeto 'Introdução ao Git e GitHub' foi realizado na plataforma <strong>DIO</strong></i></li>
- </ul>
+<ul><li type="circle"><i>Repositório criado para o desafio do Bootcamp da <strong>DIO</strong></i></li></ul>
