@@ -26,4 +26,5 @@
 
 </br>
 
-<i><u>Introdução ao Git e GitHub realizado na plataforma <strong>DIO</strong></u></i>
+  <li><i>O projeto 'Introdução ao Git e GitHub' foi realizado na plataforma <strong>DIO</strong></i></li>
+ </ul>
